@@ -25,3 +25,9 @@ Engineering" course at UNITN, 2017-2018 edition.
 
 * Lesson 2. Configuration Management
   <2017-09-18 Mon>
+
+  Configuration Management is the set of practices to ensure 
+  we can ensure the coherency of a system over time
+
+  - [[Slides/03 - Configuration Management.odp]]
+
