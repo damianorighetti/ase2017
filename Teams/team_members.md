@@ -21,4 +21,5 @@ Team |                         Members                   | GitHub
 13   | Stefano Artuso, Martin Karbon                     | [@stefart](https://github.com/stefart)
 14   | Gionni Reffo                                      | [@ReffoGionni](https://github.com/ReffoGionni)
 15   | Fabio Zanardello, Matteo Piovesan, Safouane Fatnassi| [@ooctopuss](https://github.com/ooctopuss)
+16   | Dario Ferrai, Matteo Padovan, Sara Frizzera       | [@SaraFrizzera](https://github.com/SaraFrizzera)
 
