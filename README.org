@@ -5,7 +5,7 @@ This repository contains the material for the "Advanced Software
 Engineering" course at UNITN, 2017-2018 edition.
 
 * Syllabus
-  [[- Support Material/Syllabus.docx]]
+  - [[Support Material/Syllabus.docx]]
 
 * Schedule:
   - Monday 14:10-15:50 Room B104
@@ -26,8 +26,12 @@ Engineering" course at UNITN, 2017-2018 edition.
 * Lesson 2. Configuration Management
   <2017-09-18 Mon>
 
-  Configuration Management is the set of practices to ensure 
+  Configuration Management is the set of practices to ensure
   we can ensure the coherency of a system over time
 
   - [[Slides/03 - Configuration Management.odp]]
 
+* Lesson 3.
+  <2017-09-20>
+
+  * [[Tutorials/01_ruby_basics_1.md]] Ruby basics (part 1)
