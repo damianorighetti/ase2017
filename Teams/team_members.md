@@ -20,3 +20,5 @@ Team |                         Members                   | GitHub
 12   | Andrea Tobaldi, Massimo Maffei                    | [@TobaJR](https://github.com/TobaJR)
 13   | Stefano Artuso, Martin Karbon                     | [@stefart](https://github.com/stefart)
 14   | Gionni Reffo                                      | [@ReffoGionni](https://github.com/ReffoGionni)
+15   | Fabio Zanardello, Matteo Piovesan, Safouane Fatnassi| [@ooctopuss](https://github.com/ooctopuss)
+
