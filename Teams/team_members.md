@@ -7,7 +7,7 @@ Please enter in the table the team members and link their GitHub accounts
 Team |                         Members                   | GitHub
 :--- | ------------------------------:                   | :----:
 1    | Patrick Barattin, Girdea Robert                   | [@Nittarab](https://github.com/Nittarab)
-2    | Gerevini Alessandro, Coba Paolo, Fabris Pietro    | [@ImGere](https://github.com/ImGere)
+2    | Gerevini Alessandro, Coba Paolo, Fabris Pietro    | [@ImGere](https://github.com/ImGere)[@Pablo334](https://github.com/Pablo334)
 3    | Eliana Battisti, Lisanna Canton, Alberto Dietre   | [@eliana97](https://github.com/eliana97)
 4    | Giovanelli Anna                                   | [@AnnaGiovelli](https://github.com/AnnaGiovanelli)
 5    | Matteo Bortolon, Jessica Lucchetta                | [@jessical97](https://github.com/jessical97)
