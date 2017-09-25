@@ -44,3 +44,8 @@ Engineering" course at UNITN, 2017-2018 edition.
   <2017-09-20 Wed 16:00-18:00>
 
   - [[Tutorials/01_ruby_basics_1.md]] Ruby basics (part 1)
+
+* Lesson 5. More Ruby
+  <2017-09-25 Mon 14:00-16:00>
+
+  - [[file:./Teams/assignment.org][Calendario e Specifica Assignment]]
