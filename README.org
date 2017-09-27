@@ -34,7 +34,7 @@ Engineering" course at UNITN, 2017-2018 edition.
 
 * Lesson 3. Configuration Management
   <2017-09-20 Wed 14:00-16:00>
-  
+
   More on Configuration Management and on Git.  The branching
   development model and the merging (nightmare, if you don't do things
   right).
@@ -49,6 +49,7 @@ Engineering" course at UNITN, 2017-2018 edition.
 * Lesson 5. More Ruby
   <2017-09-25 Mon 14:00-16:00>
 
+  - [[Tutorials/01_ruby_basics_2.md]] Ruby basics (part 2)
   - [[file:./Teams/assignment.org][Calendario e Specifica Assignment]]
 
 * Lesson 6. Object Oriented Programming
