@@ -56,3 +56,4 @@ Engineering" course at UNITN, 2017-2018 edition.
   <2017-09-27 Wed 14:00-18:00>
 
   - [[file:Slides/05-StructuredProgramming.odp][Object Oriented Programming]]
+  - [[Examples/client_portfolio]]
