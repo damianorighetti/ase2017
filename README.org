@@ -1,5 +1,6 @@
 #+TITLE: Advanced Software Engineering
 #+AUTHOR: Adolfo Villafiorita
+#+STARTUP: showall
 
 This repository contains the material for the "Advanced Software
 Engineering" course at UNITN, 2017-2018 edition.
@@ -49,3 +50,8 @@ Engineering" course at UNITN, 2017-2018 edition.
   <2017-09-25 Mon 14:00-16:00>
 
   - [[file:./Teams/assignment.org][Calendario e Specifica Assignment]]
+
+* Lesson 6. Object Oriented Programming
+  <2017-09-27 Wed 14:00-18:00>
+
+  - [[file:Slides/05-StructuredProgramming.odp][Object Oriented Programming]]
