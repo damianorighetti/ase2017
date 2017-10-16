@@ -55,6 +55,10 @@ assegnati nel corso.
 
   *Questo assignment è per i docenti, non per gli studenti.*
 
+  **Deliverable** disponibile qui: [[assignment.odp][./assignment.odp]]
+  
+  Domande e dubbi possono essere posti aprendo una issue sul
+  repository del corso.
 
 ** TODO User Stories
    DEADLINE: <2017-10-30 Mon>
@@ -63,7 +67,6 @@ assegnati nel corso.
    Il team scrive le user stories del sistema da sviluppare e le
    pubblica nel proprio repository su Github entro la scadenza
    indicata.
-
 
 ** TODO Rails Skeleton App
    DEADLINE: <2017-11-13 Mon>
