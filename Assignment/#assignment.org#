@@ -23,11 +23,8 @@ assegnati nel corso.
    fare una pull request, in modo che i cambiamenti siano incorporati
    nel repository
   
-** DONE Assignment in Ruby
+** DOING Assignment in Ruby
    DEADLINE: <2017-10-15 Sun>
-   :LOGBOOK:
-   - State "DONE"       from "DOING"      [2017-10-16 Mon 16:07]
-   :END:
    SCORE: 9
 
    Svolgere gli esercizi su: 
@@ -46,7 +43,7 @@ assegnati nel corso.
    esercizi.  *Sul sito registrare e usare una sola utenza per team.*
 
 
-** DONE Specifica del sistema da sviluppare in Ruby
+** Specifica del sistema da sviluppare in Ruby
   DEADLINE: <2017-10-16 Mon>
   
   I docenti forniscono le specifiche del sistema da
