@@ -73,7 +73,19 @@ Engineering" course at UNITN, 2017-2018 edition.
   - [[Slides/07-AgileAndScrum.odp][Agile and Scrum]] (part I)
 
 * Lesson 9. Agile and Scrum
-  <2017-10-23 Mon 14:00-16:0>0
+  <2017-10-23 Mon 14:00-16:00>
 
   - [[Slides/07-AgileAndScrum.odp][Agile and Scrum]] (part II)
   - [[Slides/08-UserStories.odp][User Stories]]
+
+* Lesson 10. Ruby on Rails (part 1)
+  <2017-10-25 Wed 11:00-13:00>
+  
+  Resources:
+  - [[https://www.railstutorial.org/book]][Rails Tutorial Book]
+  - [[http://railsforzombies.org/]][Rails for Zombies]
+
+* Lesson 11. Ruby on Rails (part 2)
+  <2017-11-06 Mon 14:00-16:00>
+  
+  Questionnaire link (optional): https://goo.gl/forms/4fezusYlImBm819W2
