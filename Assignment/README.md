@@ -5,7 +5,8 @@ assegnati nel corso.
 
 ## Formazione Gruppi
 
-DEADLINE: <2017-09-13 Wed>
+DEADLINE: 2017-09-13
+
 SCORE: 1
 
 Formare i gruppi di lavoro e comunicarli al professore.
@@ -13,7 +14,8 @@ Formare i gruppi di lavoro e comunicarli al professore.
 
 ## Repository in Github e Pull Requests
 
-DEADLINE: <2017-09-20 Wed>
+DEADLINE: 2017-09-20
+
 SCORE: 2
 
 Inserire i gruppi di lavoro nel repository del corso su Github e
@@ -22,7 +24,8 @@ nel repository
   
 ## Assignment in Ruby
 
-DEADLINE: <2017-10-15 Sun>
+DEADLINE: 2017-10-15
+
 SCORE: 9
 
 Svolgere gli esercizi su: 
@@ -45,7 +48,7 @@ esercizi.  *Sul sito registrare e usare una sola utenza per team.*
 
 ## Specifica del sistema da sviluppare in Ruby
 
-DEADLINE: <2017-10-16 Mon>
+DEADLINE: 2017-10-16
 
 I docenti forniscono le specifiche del sistema da
 sviluppare, le pubblicano nel repository del corso e le 
@@ -60,7 +63,8 @@ repository del corso.
 
 ## User Stories
 
-DEADLINE: <2017-10-30 Mon>
+DEADLINE: 2017-10-30
+
 SCORE: 4
 
 Il team scrive le user stories del sistema da sviluppare e le
@@ -69,7 +73,8 @@ indicata.
 
 ## Rails Skeleton App
 
-DEADLINE: <2017-11-13 Mon>
+DEADLINE: 2017-11-15
+
 SCORE: 3
 
 Il risultato di `rails new` e qualche migrazione significativa
@@ -78,9 +83,10 @@ sono caricati nel vostro repository in Github.
 /Suggerimento: spostare i file accessori (documentazione, etc),
 in una directory `doc` all'interno della vostra app.
 
-## TODO Behaviour Driven Development Specification
+## Behaviour Driven Development Specification
 
-DEADLINE: <2017-11-20 Mon>
+DEADLINE: 2017-11-22
+
 SCORE: 5
 
 Il team produce la specifica dei casi di test dell'applicazione
@@ -90,7 +96,8 @@ pubblica sul repository di progetto.
 
 ## Test Results
 
-DEADLINE: <2017-11-26 Sun>
+DEADLINE: 2017-11-28
+
 SCORE: 5
 
 Il team esegue i test definiti al passo precedente e pubblica i
@@ -106,7 +113,8 @@ Note.
 
 ## Presentazione Finale
 
-DEADLINE: <2017-12-04 Mon>
+DEADLINE: 2017-12-06
+
 SCORE: 3
 
 Il team produce e carica sul repository:
