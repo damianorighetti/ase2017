@@ -1,14 +1,9 @@
-#+TITLE: Specifica Assignment
-#+AUTHOR: Adolfo Villafiorita e Aaron Ciaghi
-#+STARTUP: showall
-#+TAGS: ase2017
-#+DATE: <2017-09-25 Mon>
-
 Questo documento contiene le specifiche degli assignment che verranno
 assegnati nel corso.
 
 * Assignment
 ** DONE Formazione Gruppi
+
    DEADLINE: <2017-09-13 Wed>
    SCORE: 1
 
@@ -16,6 +11,7 @@ assegnati nel corso.
 
 
 ** DONE Repository in Github e Pull Requests
+
    DEADLINE: <2017-09-20 Wed>
    SCORE: 2
 
@@ -24,6 +20,7 @@ assegnati nel corso.
    nel repository
   
 ** DONE Assignment in Ruby
+
    DEADLINE: <2017-10-15 Sun>
    :LOGBOOK:
    - State "DONE"       from "DOING"      [2017-10-16 Mon 16:07]
@@ -47,6 +44,7 @@ assegnati nel corso.
 
 
 ** DONE Specifica del sistema da sviluppare in Ruby
+
   DEADLINE: <2017-10-16 Mon>
   
   I docenti forniscono le specifiche del sistema da
@@ -61,6 +59,7 @@ assegnati nel corso.
   repository del corso.
 
 ** TODO User Stories
+
    DEADLINE: <2017-10-30 Mon>
    SCORE: 4
 
@@ -69,6 +68,7 @@ assegnati nel corso.
    indicata.
 
 ** TODO Rails Skeleton App
+
    DEADLINE: <2017-11-13 Mon>
    SCORE: 3
 
@@ -79,6 +79,7 @@ assegnati nel corso.
    in una directory ~doc~ all'interno della vostra app./
 
 ** TODO Behaviour Driven Development Specification
+
    DEADLINE: <2017-11-20 Mon>
    SCORE: 5
 
@@ -88,6 +89,7 @@ assegnati nel corso.
 
 
 ** TODO Test Results
+
    DEADLINE: <2017-11-26 Sun>
    SCORE: 5
 
@@ -103,6 +105,7 @@ assegnati nel corso.
 
 
 ** TODO Presentazione Finale
+
    DEADLINE: <2017-12-04 Mon>
    SCORE: 3
   
