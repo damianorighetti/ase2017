@@ -89,3 +89,9 @@ Engineering" course at UNITN, 2017-2018 edition.
   <2017-11-06 Mon 14:00-16:00>
   
   Questionnaire link (optional): https://goo.gl/forms/4fezusYlImBm819W2
+
+* Lesson 12. Ruby on Rails (part 3)
+  <2017-11-08 Wed 14:00-16:00>
+  
+  - Book example app: [[Examples/books_example_app]]
+  - [[Rails Tutorial from AppFactory RoR DW][https://ict4g.github.io/appfactory-ror-dw/guides/incident-reporter_pt1.html]]
