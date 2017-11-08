@@ -1,8 +1,9 @@
 Questo documento contiene le specifiche degli assignment che verranno
 assegnati nel corso.
 
-* Assignment
-** DONE Formazione Gruppi
+# Assignment
+
+## Formazione Gruppi
 
    DEADLINE: <2017-09-13 Wed>
    SCORE: 1
@@ -10,7 +11,7 @@ assegnati nel corso.
    Formare i gruppi di lavoro e comunicarli al professore.
 
 
-** DONE Repository in Github e Pull Requests
+## Repository in Github e Pull Requests
 
    DEADLINE: <2017-09-20 Wed>
    SCORE: 2
@@ -19,12 +20,9 @@ assegnati nel corso.
    fare una pull request, in modo che i cambiamenti siano incorporati
    nel repository
   
-** DONE Assignment in Ruby
+## Assignment in Ruby
 
    DEADLINE: <2017-10-15 Sun>
-   :LOGBOOK:
-   - State "DONE"       from "DOING"      [2017-10-16 Mon 16:07]
-   :END:
    SCORE: 9
 
    Svolgere gli esercizi su: 
@@ -43,7 +41,7 @@ assegnati nel corso.
    esercizi.  *Sul sito registrare e usare una sola utenza per team.*
 
 
-** DONE Specifica del sistema da sviluppare in Ruby
+## Specifica del sistema da sviluppare in Ruby
 
   DEADLINE: <2017-10-16 Mon>
   
@@ -58,7 +56,7 @@ assegnati nel corso.
   Domande e dubbi possono essere posti aprendo una issue sul
   repository del corso.
 
-** TODO User Stories
+## User Stories
 
    DEADLINE: <2017-10-30 Mon>
    SCORE: 4
@@ -67,7 +65,7 @@ assegnati nel corso.
    pubblica nel proprio repository su Github entro la scadenza
    indicata.
 
-** TODO Rails Skeleton App
+## Rails Skeleton App
 
    DEADLINE: <2017-11-13 Mon>
    SCORE: 3
@@ -78,7 +76,7 @@ assegnati nel corso.
    /Suggerimento: spostare i file accessori (documentazione, etc),
    in una directory ~doc~ all'interno della vostra app./
 
-** TODO Behaviour Driven Development Specification
+## TODO Behaviour Driven Development Specification
 
    DEADLINE: <2017-11-20 Mon>
    SCORE: 5
@@ -88,7 +86,7 @@ assegnati nel corso.
    pubblica sul repository di progetto.
 
 
-** TODO Test Results
+## Test Results
 
    DEADLINE: <2017-11-26 Sun>
    SCORE: 5
@@ -104,7 +102,7 @@ assegnati nel corso.
      esempio, perché non eseguono)
 
 
-** TODO Presentazione Finale
+## Presentazione Finale
 
    DEADLINE: <2017-12-04 Mon>
    SCORE: 3
