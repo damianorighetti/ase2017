@@ -3,7 +3,7 @@
 This repository contains the material for the "Advanced Software
 Engineering" course at UNITN, 2017-2018 edition.
 
-Syllabus: [Support Material/Syllabus.docx](Support Material/Syllabus.docx)
+Syllabus: ["Support Material/Syllabus.docx"](Support Material/Syllabus.docx)
 
 Schedule:
 
