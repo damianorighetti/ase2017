@@ -116,3 +116,18 @@ Schedule:
   Other Resources
 
   - [RSpec docs](https://relishapp.com/rspec)
+
+## Lesson 14. TDD & BDD
+
+  <2017-11-15 Wed 14:00-16:00>
+
+  TDD Example (Calculator kata):
+  - [Instructions](Tutorials/02_ruby-tdd.md)
+  - [Example done in class](Examples/testing/calculator)
+
+  Testing in Rails:
+  - [Instructions](Tutorials/02_testing-rails.md) to install and setup RSpec + Cucumber in your Rails app
+  - [Example scenarios](Examples/book_example_app/features/create_a_book.feature)
+  - [Step definitions](Examples/book_example_app/features/stestep_definitions)
+  - Check out the whole book example app (`features`, `spec/factories` directories and `Gemfile`)
+  - To run the tests: `rake cucumber`
