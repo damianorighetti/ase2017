@@ -85,7 +85,7 @@ in una directory `doc` all'interno della vostra app.
 
 ## Behaviour Driven Development Specification
 
-DEADLINE: 2017-11-22
+DEADLINE: ~~2017-11-22~~ 2017-11-27
 
 SCORE: 5
 
@@ -96,7 +96,7 @@ pubblica sul repository di progetto.
 
 ## Test Results
 
-DEADLINE: 2017-11-28
+DEADLINE: ~~2017-11-28~~ TBD
 
 SCORE: 5
 
@@ -113,7 +113,7 @@ Note.
 
 ## Presentazione Finale
 
-DEADLINE: 2017-12-06
+DEADLINE: ~~2017-12-06~~ TBD
 
 SCORE: 3
 
