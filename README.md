@@ -131,3 +131,13 @@ Schedule:
   - [Step definitions](Examples/book_example_app/features/stestep_definitions)
   - Check out the whole book example app (`features`, `spec/factories` directories and `Gemfile`)
   - To run the tests: `rake cucumber`
+
+## Lesson 15. Putting all together
+
+    <2017-11-20 Mon 14:00-16:00>
+    
+    From start to end: simulating the development process using
+    traditional techniques.  From requirements to a plan, from the plan
+    to the costs (and price).
+    
+    Why people promote TDD.
