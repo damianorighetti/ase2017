@@ -134,10 +134,38 @@ Schedule:
 
 ## Lesson 15. Putting all together
 
-    <2017-11-20 Mon 14:00-16:00>
+<2017-11-20 Mon 14:00-16:00>
     
-    From start to end: simulating the development process using
-    traditional techniques.  From requirements to a plan, from the plan
-    to the costs (and price).
+From start to end: simulating the development process using
+traditional techniques.  From requirements to a plan, from the plan
+to the costs (and price).
     
-    Why people promote TDD.
+Why people like TDD.
+
+## Lesson 16. A recap on Cucumber and TDD
+
+<2017-11-22 Wed 14:00-16:00>
+
+Recap on Cucumber and TDD.
+
+## Lesson 17. Putting all together (part II)
+
+<2017-11-27 Mon 14:00-16:00>
+
+From start to end, if you are using SCRUM: simulating the development
+process using SCRUM.  From a user request to a series of incrementally
+better products.  Project structure and budgeting when requirements
+are known in advance.  Project structure and budgeting when
+requirements are not fully known.  Why Agile is better at managing
+maintenance tasks.
+
+## Lesson 18. Quality Management
+
+<2017-11-29 Wed 14:00-16:00>
+
+Ooppss ... the HDMI curse hits again ... and quality management it is!
+
+Slides: [Quality Management](http://spmbook.com/downloads/slides/pdf/C04.03-QualityManagement.key.pdf).
+
+
+
