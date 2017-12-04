@@ -96,7 +96,7 @@ pubblica sul repository di progetto.
 
 ## Test Results
 
-DEADLINE: ~~2017-11-28~~ TBD
+DEADLINE: ~~2017-11-28~~ 2017-12-11
 
 SCORE: 5
 
@@ -113,7 +113,7 @@ Note.
 
 ## Presentazione Finale
 
-DEADLINE: ~~2017-12-06~~ TBD
+DEADLINE: ~~2017-12-06~~ 2017-12-11
 
 SCORE: 3
 
@@ -123,3 +123,5 @@ Il team produce e carica sul repository:
   lucidi o un README file)
 - il diagramma ER a partire dal codice, utilizzando `railroady`
 - la licenza d'uso del sistema sviluppato e del codice prodotto
+
+Retrospective in aula.
