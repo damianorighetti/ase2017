@@ -10,7 +10,12 @@ Schedule:
   - Monday 14:00-15:40 Room B104
   - Wednesday 14:00-15:40 Room B108
   
+Special schedule for December
 
+  - Monday 4th: 14:00-16:00
+  - Wednesday 6th: 11:00-13:00, 14:00-16:00
+  - Monday 11th: 14:00-18:00
+  
 ## Lesson 1. Introduction
 
   <2017-09-13 Wed 14:00 - 16:00>
