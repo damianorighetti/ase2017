@@ -10,13 +10,28 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171127141854) do
+ActiveRecord::Schema.define(version: 20171204142959) do
 
   create_table "accounts", force: :cascade do |t|
     t.string "name"
+    t.string "account_type"
     t.string "currency"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "entries", force: :cascade do |t|
+    t.date "date"
+    t.string "from_account"
+    t.string "to_account"
+    t.decimal "amount"
+    t.text "description"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer "destination_account_id"
+    t.integer "source_account_id"
+    t.index ["destination_account_id"], name: "index_entries_on_destination_account_id"
+    t.index ["source_account_id"], name: "index_entries_on_source_account_id"
   end
 
 end

@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @account.name %>
+</p>
+
+<p>
+  <strong>Account type:</strong>
+  <%= @account.account_type %>
+</p>
+
+<p>
+  <strong>Currency:</strong>
+  <%= @account.currency %>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Description</th>
+      <th>In</th>
+      <th>Out</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @account.entries.each do |entry| %>
+      <tr>
+        <td><%= entry.date %></td>
+        <td><%= entry.description %></td>
+        <td><%= number_to_currency(entry.amount, unit: @account.currency) if entry.destination_account == @account %></td>
+        <td><%= number_to_currency(entry.amount, unit: @account.currency) if entry.source_account == @account %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to 'Edit', edit_account_path(@account) %> |
+<%= link_to 'Back', accounts_path %>
