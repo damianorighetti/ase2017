@@ -27,10 +27,15 @@
   <tbody>
     <% @account.entries.each do |entry| %>
       <tr>
-        <td><%= entry.date %></td>
-        <td><%= entry.description %></td>
-        <td><%= number_to_currency(entry.amount, unit: @account.currency) if entry.destination_account == @account %></td>
-        <td><%= number_to_currency(entry.amount, unit: @account.currency) if entry.source_account == @account %></td>
+        <td>
+          <%= entry.date %>
+        </td>
+        <td>
+          <%= entry.description %>
+        </td>
+        <td>
+          <%= number_to_currency(entry.amount, unit: @account.currency) if entry.destination_account_id == @account.id %></td>
+        <td><%= number_to_currency(entry.amount, unit: @account.currency) if entry.source_account_id == @account.id %></td>
       </tr>
     <% end %>
   </tbody>
