@@ -15,6 +15,7 @@ Special schedule for December
   - Monday 4th: 14:00-16:00
   - Wednesday 6th: ~~11:00-13:00~~, 14:00-16:00
   - Monday 11th: 14:00-18:00
+  - Monday 18th: 14:00-16:00 (just for Q&A)
   
 **There is no room available for Wednesday morning and the proposed lesson has 
 to be cancelled.  We will meet Wednesday afternoon.**
