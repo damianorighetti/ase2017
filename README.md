@@ -180,3 +180,29 @@ Ooppss ... the HDMI curse hits again ... and quality management it is!
 
 Slides: [Quality Management](http://spmbook.com/downloads/slides/pdf/C04.03-QualityManagement.key.pdf).
 
+## Lesson 20.
+<2017-12-04 Mon 14:00-16:00>
+
+Double entry accounting example: version 1 and evolution. How Rails manages migrations (recap) and some special
+cases in ActiveRecord relations (two foreign_keys to the same data structure).
+
+
+## Lesson 21.
+<2017-12-06 Wed 14:00-16:00>
+
+Double entry accounting example: from version 1 to version 2 (see repo in the Examples section) and why version
+2 is not the best implementation of a double-entry accounting system.
+
+## Lesson 22.
+<2017-12-11 Mon 14:00-18:00>
+
+* Scenarios: recap. Some examples on the book management system. 
+* Coverage with simplecov
+* Course Retrospective
+
+## Lesson 23
+<2017-12-18 Mon 14:00-16:00>
+
+Assignment discussion and possible improvements.
+
+
