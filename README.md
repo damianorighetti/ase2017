@@ -187,20 +187,20 @@ Double entry accounting example: version 1 and evolution. How Rails manages migr
 cases in ActiveRecord relations (two foreign_keys to the same data structure).
 
 
-## Lesson 21.
+## Lesson 21. Evolutionary Applications development with Rails
 <2017-12-06 Wed 14:00-16:00>
 
 Double entry accounting example: from version 1 to version 2 (see repo in the Examples section) and why version
 2 is not the best implementation of a double-entry accounting system.
 
-## Lesson 22.
+## Lesson 22. Evolutionary Applications development with Rails (part II) and Retrospective
 <2017-12-11 Mon 14:00-18:00>
 
 * Scenarios: recap. Some examples on the book management system. 
 * Coverage with simplecov
 * Course Retrospective
 
-## Lesson 23
+## Lesson 23. Regrets and Despair. Joy and Celebrations.
 <2017-12-18 Mon 14:00-16:00>
 
 Assignment discussion and possible improvements.
