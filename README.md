@@ -5,6 +5,8 @@ Engineering" course at UNITN, 2017-2018 edition.
 
 Syllabus: [Support-Material/Syllabus.docx](Support-Material/Syllabus.docx)
 
+Assignment Results: https://docs.google.com/spreadsheets/d/1a9vYSfPYeRYym8uW6sg7ay2xeuSe826_-FKiXuJIu_Q/edit?usp=sharing
+
 Schedule:
 
   - Monday 14:00-15:40 Room B104
