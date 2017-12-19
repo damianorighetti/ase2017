@@ -5,6 +5,8 @@ Engineering" course at UNITN, 2017-2018 edition.
 
 Syllabus: [Support-Material/Syllabus.docx](Support-Material/Syllabus.docx)
 
+Assignment Results: https://docs.google.com/spreadsheets/d/1a9vYSfPYeRYym8uW6sg7ay2xeuSe826_-FKiXuJIu_Q/edit?usp=sharing
+
 Schedule:
 
   - Monday 14:00-15:40 Room B104
@@ -15,6 +17,7 @@ Special schedule for December
   - Monday 4th: 14:00-16:00
   - Wednesday 6th: ~~11:00-13:00~~, 14:00-16:00
   - Monday 11th: 14:00-18:00
+  - Monday 18th: 14:00-16:00 (just for Q&A)
   
 **There is no room available for Wednesday morning and the proposed lesson has 
 to be cancelled.  We will meet Wednesday afternoon.**
@@ -176,4 +179,30 @@ maintenance tasks.
 Ooppss ... the HDMI curse hits again ... and quality management it is!
 
 Slides: [Quality Management](http://spmbook.com/downloads/slides/pdf/C04.03-QualityManagement.key.pdf).
+
+## Lesson 20. Evolutionary Applications development with Rails
+<2017-12-04 Mon 14:00-16:00>
+
+Double entry accounting example: version 1 and evolution. How Rails manages migrations (recap) and some special
+cases in ActiveRecord relations (two foreign_keys to the same data structure).
+
+
+## Lesson 21. Evolutionary Applications development with Rails (part II)
+<2017-12-06 Wed 14:00-16:00>
+
+Double entry accounting example: from version 1 to version 2 (see repo in the Examples section) and why version
+2 is not the best implementation of a double-entry accounting system.
+
+## Lesson 22. Testing, Coverage, and Assignment Retrospective
+<2017-12-11 Mon 14:00-18:00>
+
+* Scenarios: recap. Some examples on the book management system. 
+* Coverage with simplecov
+* Course Retrospective
+
+## Lesson 23. Regrets and Despair. Joy and Celebrations.
+<2017-12-18 Mon 14:00-16:00>
+
+Assignment discussion and possible improvements.
+
 

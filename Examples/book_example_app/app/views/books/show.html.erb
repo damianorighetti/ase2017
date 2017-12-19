@@ -25,5 +25,6 @@
   <%= @book.author %>
 </p>
 
+<%= link_to 'Destroy', author_book_path(@book.author, @book), method: :delete %>
 <%= link_to 'Edit', edit_author_book_path(@book.author, @book) %> |
 <%= link_to 'Back', author_books_path(@book.author) %>
