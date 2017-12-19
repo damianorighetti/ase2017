@@ -5,6 +5,8 @@ Engineering" course at UNITN, 2017-2018 edition.
 
 Syllabus: [Support-Material/Syllabus.docx](Support-Material/Syllabus.docx)
 
+Written Exam: [Rules and Structure](WrittenExam/index.md)
+
 Assignment Results: https://docs.google.com/spreadsheets/d/1a9vYSfPYeRYym8uW6sg7ay2xeuSe826_-FKiXuJIu_Q/edit?usp=sharing
 
 Schedule:
