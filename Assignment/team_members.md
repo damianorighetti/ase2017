@@ -23,3 +23,9 @@ Team |                         Members                   | GitHub | LINK |
 16   | Dario Ferrai, Matteo Padovan, Sara Frizzera       | [@SaraFrizzera](https://github.com/SaraFrizzera) |  https://github.com/SaraFrizzera/ase2017/tree/Dev/Team%2016/project | 
 17   | Bettin Claudio, Deanesi Emanuele                  | [@BettinClaudio](https://github.com/BettinClaudio/) |  https://github.com/BettinClaudio/Rails-App | 
 18   | Dmytro Kashchuk, Ruggeri Lucrezia, Spinel Fabiola | [@DmytroKashcuhk](https://github.com/DmytroKashchuk)  | https://github.com/DmytroKashchuk/Bill/tree/master/BillSystem |
+
+Second Batch
+
+Team |                         Members                   | GitHub | LINK |
+:--- | ------------------------------:                   | :----: | :---:|
+19   | Damiano Righetti & Sebastian Martinelli | | https://github.com/damianorighetti/ase_TJ |
