@@ -28,4 +28,4 @@ Second Batch
 
 Team |                         Members                   | GitHub | LINK |
 :--- | ------------------------------:                   | :----: | :---:|
-19   | Damiano Righetti & Sebastian Martinelli | | https://github.com/damianorighetti/ase_TJ |
+19   | Damiano Righetti & Sebastian Martinelli |[@damianorighetti](https://github.com/damianorighetti) [@seba95martin] (https://github.com/seba95martin) | https://github.com/damianorighetti/ase_TJ |
